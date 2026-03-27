@@ -1,2 +1,6 @@
-# 11B-Web-Sitesi
-Sınıf Web Sitesi
+[tanitim.html](https://github.com/user-attachments/files/26297957/tanitim.html)
+[style.css](https://github.com/user-attachments/files/26297956/style.css)
+[öğretmenler.html](https://github.com/user-attachments/files/26297953/ogretmenler.html)
+[öğrenciler.html](https://github.com/user-attachments/files/26297952/ogrenciler.html)
+[index.html](https://github.com/user-attachments/files/26297951/index.html)
+[dersler.html](https://github.com/user-attachments/files/26297950/dersler.html)
